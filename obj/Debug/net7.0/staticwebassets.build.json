@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dUYkf3KgIQhbDsPn1AIIWMiWivYeqQ3N0PWgcmBbqEY=",
+  "Source": "dotnet7-doctorappointment",
+  "BasePath": "_content/dotnet7-doctorappointment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
